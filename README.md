@@ -16,3 +16,6 @@ JDK / javac
 
 # Version
 1.0.0
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
